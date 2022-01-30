@@ -1,1 +1,3 @@
-# ML-Prediction-for-Purchase-with-XGBoost-and-Oversampling
+# ML-BinaryClassification-XGBoost-Oversampling
+
+This project is about Binary Classification using XGBoost with Oversampling technique.
